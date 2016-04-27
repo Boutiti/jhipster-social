@@ -1,0 +1,6 @@
+{
+  "name": "Jhipster-social",
+  "tagline": "Sample JHipster Client for Viadeo API",
+  "body": "### Welcome to jhipster-social.\r\nTo anticipate our next journey on planet earth, please help us to select several hundred individuals who will be invited to onboard our spacecraft.\r\n* Selection criteria are: occupation, skills, nationality, career path,\r\n* Tools at your disposal are part of the Jhipster stack\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
